@@ -1,3 +1,10 @@
+<div>
+🔴🟡🟢
+
+<br>
+
+
+
 <h1 align="center">Hi 👋, I'm akram</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 <img  alt="coding" width="400px" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
