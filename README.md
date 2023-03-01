@@ -9,7 +9,8 @@
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 
 <img  alt="coding" width="400px" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
-
+  <img  alt="coding" width="400px" align="right" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://giphy.com/stickers/hacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F
+)"> 
   
 - 🌱 I’m currently learning **React**
 
