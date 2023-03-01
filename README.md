@@ -8,7 +8,8 @@
 <h1 align="center">Hi 👋, I'm akram</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 
-  <a href="https://app.daily.dev/Akram"><img src="https://api.daily.dev/devcards/acdfe72a61c74c2aab69494bd98e2fbd.png?r=elz" width="400" alt="Akram saidseghir's Dev Card"/></a>
+<img  alt="coding" width="400px" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
+
   
 - 🌱 I’m currently learning **React**
 
