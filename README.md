@@ -4,10 +4,9 @@
 <br>
 
 
-<img  width="500px" align="center" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"> 
-  
-<h1 align="center">Hi 👋, I'm akram</h1>
-<h3 align="center">A passionate frontend developer from Algeria</h3>
+<img  width="500px" align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"> 
+<h1 align="right">Hi 👋, I'm akram</h1>
+<h3 align="right">A passionate frontend developer from Algeria</h3>
 
 <img  alt="coding" width="400px" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
