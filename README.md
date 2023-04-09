@@ -3,7 +3,8 @@
 
 <br>
 
-<a href="https://linkedin.com/in/akram said seghir" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="akram said seghir" height="30" width="40" /></a>
+<a href="#" target="blank" align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="akram said seghir" height="30" width="40" /></a>
 
 <h1 align="center">Hi 👋, I'm akram</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
