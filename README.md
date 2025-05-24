@@ -51,7 +51,6 @@ const akram = {
 ✅ Master Three.js & React Three Fiber
 
 ✅ Publish premium dashboard templates
-
 ✅ Collaborate on open-source tools for Arabic devs
 
 ✅ Launch my own SaaS startup
