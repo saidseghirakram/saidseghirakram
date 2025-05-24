@@ -1,49 +1,93 @@
-👋 Hi, I’m Akram Said Seghir
+# About Me
 
-About Me
-I am Akram Said Seghir, a passionate Systems Engineer & Full-Stack Web and Mobile Developer based in Medea, Algeria. With a strong foundation in web technologies and a drive to master modern frameworks and tools, I specialize in building scalable, performant, and beautiful applications using cutting-edge technologies.
+---
 
-I’m a lifelong learner, content creator, and community enthusiast focused on empowering Arabic-speaking developers with tutorials, tips, and inspiration. My goal is to contribute uniquely to the tech community while developing innovative solutions and premium UI components.
+![Profile Image](https://via.placeholder.com/150 "Profile Image")  
+*Replace the above URL with your actual profile picture URL*
 
-🔧 Tech Stack & Skills
-Frontend	Backend	Mobile	Design & Tools
+---
 
-🎓 Education
-Bachelor’s Degree in Systems Engineering & Web Technologies
-University Yahia Fares, Medea, Algeria
+## 👋 Hello! I’m Akram Said Seghir
 
-🚀 What I Do
-Develop full-stack web applications with React, Node.js, and modern databases.
+I am a **passionate software engineer** and **full-stack web developer** specializing in systems information and web technologies. Currently, I am pursuing my degree at **University Yahia Fares, Medea, Algeria**.
 
-Build mobile applications with React Native and Expo for Android & iOS.
+---
 
-Create beautiful UI/UX using Ant Design, Material-UI, and Tailwind CSS.
+## 🧰 Skills & Technologies
 
-Create premium reusable dashboard templates and UI kits.
+### Frontend
+- 💻 HTML5, CSS3, JavaScript (ES6+), TypeScript  
+- ⚛️ React.js (React Router, Hooks)  
+- 🎨 UI Libraries: Ant Design (antd), Material-UI (MUI), Chakra UI  
+- 🎨 Styling: CSS Modules, SASS, Tailwind CSS
 
-Content creation: Tutorials and short clips focused on web & mobile development for Arabic-speaking developers.
+### Backend
+- ⚙️ Node.js, Express.js  
+- 🗄️ Databases: MongoDB, MySQL, Firebase  
+- 🔐 API design, authentication, authorization
 
-3D web design enthusiast: Exploring Three.js and React Three Fiber.
+### Mobile
+- 📱 React Native for cross-platform iOS & Android apps
 
-Active community member and contributor to tech clubs such as GDG Medea and Techverse.
+### Tools & Platforms
+- 🧑‍💻 Git, GitHub, GitLab  
+- 🐳 Basic Docker knowledge  
+- 🛠️ VSCode, debugging tools
 
-📊 Stats & Achievements
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AkramSaidSeghir&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="450" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkramSaidSeghir&layout=compact&theme=radical" alt="Top Languages" width="350" /> </div>
-📱 Social & Contact
+### Other Skills
+- 🌐 Localization & i18n with react-i18next  
+- 🖼️ 3D Graphics with Three.js and React Three Fiber
 
+---
 
+## 💼 Professional Experience
 
+- Developed admin dashboards with nested navigation & multi-language support  
+- Built e-commerce platforms integrating payments and customer support automation  
+- Created real-time chat apps with WebSocket technology  
+- Implemented drag-and-drop UI interfaces for dynamic layouts
 
+---
 
-🎯 Goals
-Become a recognized expert in React, TypeScript, and modern web & mobile development within 90 days.
+## 🎓 Education
 
-Create a series of premium, reusable dashboard templates and UI kits for the web and mobile.
+**Bachelor’s Degree in Systems Engineering and Web Technologies**  
+_University Yahia Fares, Medea, Algeria_  
+*Expected Graduation:* [Insert Year]  
+_Courses:_ Software Engineering, Database Systems, Web & Mobile Development, Networking
 
-Build a unique Arabic tech content brand focusing on web & mobile tutorials, 3D design, and developer motivation.
+---
 
-Launch SaaS tools for Algerian businesses to automate e-commerce tasks, payments, and social media engagement.
+## 🌟 Extracurricular Activities
 
-💬 Favorite Quote
-"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." — Albert Schweitzer
+- Active member of [GDG Medea](https://gdg.community.dev/gdg-medea/) & Techverse  
+- Contributor to open-source projects and tech communities  
+- Speaker & mentor in local developer events
 
+---
+
+## 🎯 Personal Interests
+
+- 📹 Content creation focused on web/mobile development for Arabic-speaking developers  
+- 🎨 3D Design & Algerian cultural digital art  
+- ✍️ Tech blogging and tutorials for beginners  
+- 🏃 Fitness & outdoor activities to maintain a healthy mind and body
+
+---
+
+## 💡 My Philosophy
+
+> *“Technology should empower people and simplify their lives.”*  
+> I strive to build intuitive, functional, and enjoyable software and commit to lifelong learning and sharing knowledge.
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/akram-said-seghir)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge)](https://github.com/akramsaid)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/akramsaid)
+
+---
+
+<!-- Feel free to replace all placeholder URLs with your real links or images -->
