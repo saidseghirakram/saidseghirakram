@@ -7,11 +7,11 @@
   <img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="akram said seghir" height="30" width="40" /></a>
 
 <h1 align="center">Hi 👋, I'm akram</h1>
-<h3 align="left" height="30">A passionate frontend developer from Algeria</h3>
+<h3 align="left" height="30">A passionate Full-Stack Developer</h3>
 
 <img  alt="coding" width="400px" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 # 💫 About Me:
-I'm a passionate Full-Stack Developer with a strong focus on frontend technologies like Nextjs ,React.js, TypeScript, and Tailwind CSS, and solid experience in Node.js and MongoDB on the backend. I love building clean, scalable, and user-friendly web and mobile applications.<br><br>🎓 Studying Systems Engineering & Web Technology at University Yahia Fares, Medea, Algeria<br><br>💼 Experienced in building SaaS platforms, e-commerce solutions, and admin dashboards<br><br>🌍 Creator-focused: Sharing coding tips and tutorials for Arabic-speaking developers on social media<br><br>📱 Also developing cross-platform mobile apps using React Native<br><br>🚀 Always exploring new tech <br><br>💬 I speak Arabic 🇩🇿, French 🇫🇷, and English 🇬🇧<br><br>🎯 Current goal: Become a top open-source contributor and create premium templates/tools for developer
+ with a strong focus on frontend technologies like Nextjs ,React.js, TypeScript, and Tailwind CSS, and solid experience in Node.js and MongoDB on the backend. I love building clean, scalable, and user-friendly web and mobile applications.<br><br>🎓 Studying Systems Engineering & Web Technology at University Yahia Fares, Medea, Algeria<br><br>💼 Experienced in building SaaS platforms, e-commerce solutions, and admin dashboards<br><br>🌍 Creator-focused: Sharing coding tips and tutorials for Arabic-speaking developers on social media<br><br>📱 Also developing cross-platform mobile apps using React Native<br><br>🚀 Always exploring new tech <br><br>💬 I speak Arabic 🇩🇿, French 🇫🇷, and English 🇬🇧<br><br>🎯 Current goal: Become a top open-source contributor and create premium templates/tools for developer
 
 
 <h3 align="left">Connect with me:</h3>
