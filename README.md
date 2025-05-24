@@ -2,36 +2,35 @@
 🔴🟡🟢
 
 <br>
-
-<h1 align="center">Hi there 👋, I'm Akram</h1>
-
+<!-- Profile Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:3B82F6&height=100&section=header&text=Hi%20I'm%20Akram%20👋&fontSize=30&fontColor=ffffff" alt="header" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-</p>
+<!-- Introduction -->
+<h2 align="center">🚀 Full-Stack Developer | 🎓 Systems Engineering Student | 🌍 Algeria</h2>
 
 <p align="center">
-  🎓 Systems Engineering & Web Technology Student <br/>
-  💻 Web & Mobile Developer | 📲 Content Creator | 🌍 From Algeria 🇩🇿
+  Passionate about building scalable web and mobile applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+<!-- About Me -->
+### 🧑‍💻 About Me
 
-const akram = {
-  fullName: "Akram Said Seghir",
-  age: 23,
-  country: "Algeria 🇩🇿",
-  studentAt: "University Yahia Fares, Medea",
-  stack: ["React", "TypeScript", "Node.js", "MongoDB", "React Native"],
-  contentCreator: true,
-  languages: ["Arabic", "French", "English"],
-  goal: "Become an expert in full-stack and inspire Arabic devs globally",
-}
+Name: Akram Said Seghir
+Role: Full-Stack Developer
+Location: Blida, Algeria 🇩🇿
+Education: Systems Engineering & Web Technology at University Yahia Fares, Medea
+Languages: Arabic (Native), French (Fluent), English (Professional)
+Interests: Web Development, Mobile Apps, Open Source, UI/UX Design
+Currently Learning: Next.js, Three.js, Firebase
+Goal: To inspire and empower Arabic-speaking developers through content and open-source contributions
+
+---
+
+
 🚀 What I Do
 🖥️ Build modern web apps with React, Next.js & Tailwind CSS
 
