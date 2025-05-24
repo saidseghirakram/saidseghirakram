@@ -6,6 +6,10 @@
 <h1 align="center">Hi there 👋, I'm Akram</h1>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:3B82F6&height=100&section=header&text=Hi%20I'm%20Akram%20👋&fontSize=30&fontColor=ffffff" alt="header" />
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 </p>
 
