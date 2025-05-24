@@ -18,7 +18,6 @@
 
 ## 🧑‍💻 About Me
 
-```ts
 const akram = {
   fullName: "Akram Said Seghir",
   age: 23,
